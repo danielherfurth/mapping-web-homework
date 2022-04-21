@@ -1,4 +1,4 @@
-# Leaflet Homework: Visualizing Data with Leaflet
+# Visualizing Data with Leaflet
 
 ## Background
 
@@ -76,6 +76,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 [//]: # (### Level 2: More Data &#40;Optional&#41;)
 
 [//]: # ()
+
+## Output Images
 ![5-Advanced](Images/5-Advanced.png)
 ![5-Advanced](Images/dark_map.png)
 
